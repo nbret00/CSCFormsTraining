@@ -4,5 +4,9 @@
         <members>A1TestApex</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>A1PageTest</members>
+        <name>ApexPage</name>
+    </types>
     <version>31.0</version>
 </Package>
